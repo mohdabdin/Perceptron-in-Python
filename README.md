@@ -1,4 +1,4 @@
-#This is a simple implementation of Rosenblatt's perceptron classification model in python applied on the iris-dataset, 
+This is a simple implementation of Rosenblatt's perceptron classification model in python applied on the iris-dataset, 
 the file animated_perceptron.py builds on top of the model to give us a visualization of the learning process by plotting the seperation line with each iteration in a 2d space.
 
 Required libraries for this project are:
